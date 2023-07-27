@@ -1,16 +1,38 @@
 {
   "files": {
-    "main.css": "/deploy/static/css/main.073c9b0a.css",
-    "main.js": "/deploy/static/js/main.a7024200.js",
-    "static/js/787.f6e60726.chunk.js": "/deploy/static/js/787.f6e60726.chunk.js",
-    "static/media/logo.svg": "/deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/deploy/index.html",
-    "main.073c9b0a.css.map": "/deploy/static/css/main.073c9b0a.css.map",
-    "main.a7024200.js.map": "/deploy/static/js/main.a7024200.js.map",
-    "787.f6e60726.chunk.js.map": "/deploy/static/js/787.f6e60726.chunk.js.map"
+    "main.css": "/familia-extrema/static/css/main.45ca9cd0.css",
+    "main.js": "/familia-extrema/static/js/main.4f52a688.js",
+    "static/js/787.3e9a2da2.chunk.js": "/familia-extrema/static/js/787.3e9a2da2.chunk.js",
+    "static/media/fondo14.png": "/familia-extrema/static/media/fondo14.c793cceec811246c9203.png",
+    "static/media/fondo13.jpg": "/familia-extrema/static/media/fondo13.d980b05ddfc069f7c0fa.jpg",
+    "static/media/trofeo.gif": "/familia-extrema/static/media/trofeo.a9bbe097a22a2e969890.gif",
+    "static/media/fondo6.jpeg": "/familia-extrema/static/media/fondo6.5ebd3603beb6413fc361.jpeg",
+    "static/media/reyLogo.png": "/familia-extrema/static/media/reyLogo.7a41f171e596963e6ec6.png",
+    "static/media/fondo5.jpeg": "/familia-extrema/static/media/fondo5.2ac89e36b653b8cab1ad.jpeg",
+    "static/media/fondo4.jpeg": "/familia-extrema/static/media/fondo4.66c0d8b37c0c47003fbf.jpeg",
+    "static/media/fondo16.jpg": "/familia-extrema/static/media/fondo16.e3651b0e81c73c0f059d.jpg",
+    "static/media/fondo7.jpeg": "/familia-extrema/static/media/fondo7.d0aad6ea71795dff6c73.jpeg",
+    "static/media/fondo17.jpg": "/familia-extrema/static/media/fondo17.5ec51e758061a6bcc3ba.jpg",
+    "static/media/fondo10.jpg": "/familia-extrema/static/media/fondo10.f901124637d2e092bc46.jpg",
+    "static/media/fondo9.jpg": "/familia-extrema/static/media/fondo9.c85fc28489e58bfb4249.jpg",
+    "static/media/fondo2.jpeg": "/familia-extrema/static/media/fondo2.038f239ca4114ae015cb.jpeg",
+    "static/media/reynaLogo.png": "/familia-extrema/static/media/reynaLogo.e75eaf02bfb26019219e.png",
+    "static/media/fondo8.jpeg": "/familia-extrema/static/media/fondo8.d39994dcd9b2703949dc.jpeg",
+    "static/media/fondo11.jpg": "/familia-extrema/static/media/fondo11.033c00d1ac4f9179f1a9.jpg",
+    "static/media/fondo1.jpeg": "/familia-extrema/static/media/fondo1.f09602bb6e5348ea67d7.jpeg",
+    "static/media/fondo3.jpeg": "/familia-extrema/static/media/fondo3.77ff9b3840641a4d4ffc.jpeg",
+    "static/media/bootstrap-icons.woff?": "/familia-extrema/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/IBMPlexMono-Medium.ttf": "/familia-extrema/static/media/IBMPlexMono-Medium.e44b6da17070f5fecd5b.ttf",
+    "static/media/bootstrap-icons.woff2?": "/familia-extrema/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/ligaWarLogo.jpg": "/familia-extrema/static/media/ligaWarLogo.ec5cac46a5081d0a5b37.jpg",
+    "static/media/fondo12.jpg": "/familia-extrema/static/media/fondo12.3231e2d998d4a3d376d4.jpg",
+    "index.html": "/familia-extrema/index.html",
+    "main.45ca9cd0.css.map": "/familia-extrema/static/css/main.45ca9cd0.css.map",
+    "main.4f52a688.js.map": "/familia-extrema/static/js/main.4f52a688.js.map",
+    "787.3e9a2da2.chunk.js.map": "/familia-extrema/static/js/787.3e9a2da2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a7024200.js"
+    "static/css/main.45ca9cd0.css",
+    "static/js/main.4f52a688.js"
   ]
 }
